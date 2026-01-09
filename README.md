@@ -37,10 +37,15 @@ Each workflow writes its results into a dedicated folder:
 
 ## 🌐 HTML Reports (Folder: `_site/`)
 The folder `_site/` contains the knitted HTML versions of all `.Rmd` files:
+
 _site/
+
 ├── 01_Data-Preparation---Descriptive-Analysis.html
+
 ├── 02_multistate_modeling.html
+
 ├── 03_prediction_and_comparison.html
+
 └── site_libs/
 
 ### 🔍 How to View  
